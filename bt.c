@@ -37,7 +37,7 @@ int main(int argc, char const *argv[])
     printf("\n>> Xoa phan tu bat ki cua mang <<\n");
     printf("Nhap vao: "); scanf("%d", &k);
     a[k]=0;
-    printf("\nA[%d]=%d", k, a[k]); 
+    printf("\nA[%d]=%d", k, a[k]);
     getch();
     return 0;
 }
